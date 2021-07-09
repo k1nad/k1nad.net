@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K1NAD</title>
+    <link>https://www.k1nad.net/</link>
+    <description>Recent content on K1NAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jul 2021 02:09:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.k1nad.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.k1nad.net/contact/</link>
+      <pubDate>Fri, 09 Jul 2021 02:09:06 -0400</pubDate>
+      
+      <guid>https://www.k1nad.net/contact/</guid>
+      <description>Email: K1NAD@K1NAD.NET
+Other emails: K1NAD@K1NAD.COM &amp;amp; K1NAD@ARRL.NET</description>
+    </item>
+    
+    <item>
+      <title>VHF/UHF</title>
+      <link>https://www.k1nad.net/vhf-uhf/</link>
+      <pubDate>Fri, 09 Jul 2021 01:59:09 -0400</pubDate>
+      
+      <guid>https://www.k1nad.net/vhf-uhf/</guid>
+      <description>For VHF/UHF/D-STAR I have the Icom ID-5100A Deluxe. It is a 2m/70cm/D-STAR radio which also can be used for public service monitoring.
+For an antenna I use a Diamond X-50NA Dualband antenna. It is mounted on my chimney and is about 6ft tall with a 10ft mast.</description>
+    </item>
+    
+    <item>
+      <title>HF</title>
+      <link>https://www.k1nad.net/hf/</link>
+      <pubDate>Fri, 09 Jul 2021 01:32:28 -0400</pubDate>
+      
+      <guid>https://www.k1nad.net/hf/</guid>
+      <description>For a radio I use 1 of 2 radios. W1HIV gifted me an Icom IC-735 with a PS-55 power supply, the issue with this radio is that 20m does not work by not work I mean does not receive or transmit. The other radio KB1IWE loaned to me and that is a Yaesu FT-840 which works great!
+For an antenna I have a Cobra Ultralite Senior (140ft long) and it is 100ft up.</description>
+    </item>
+    
+    <item>
+      <title>About K1NAD</title>
+      <link>https://www.k1nad.net/about/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.k1nad.net/about/</guid>
+      <description>I am a Ham Radio operator and operate under the call sign K1NAD. I am studying for my Amateur Extra class license and currently hold a General class license. I enjoy computer programming, website design, and much more.
+73 de K1NAD </description>
+    </item>
+    
+  </channel>
+</rss>
